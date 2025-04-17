@@ -2,8 +2,11 @@
 ## [View the full content on the website](https://wachat.net/whmcs-whatsapp-notification-module)
 WhatsApp Notifications Module for WHMCS is very useful, when you want to send notifications to your clients after placing an order. admin and client both can get Whatsapp notification after an order is placed. Whatsapp notifications options can be customized in the admin panel very easily.
 
-
 ## Key Features of the WhatsApp Notification
+
+### Send invoice PDF file
+Alerts clients for new invoices, payment receipts, and overdue reminders, helping them stay on top of their payments. Specific alerts for invoice creation, payment acknowledgment, and overdue reminders.
+
 ### Client Login Notifications
 Sends alerts when a client logs into their account, enhancing security by helping clients stay aware of any unauthorized access attempts.
 
