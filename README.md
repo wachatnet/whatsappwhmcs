@@ -1,6 +1,7 @@
 # WhatsApp Notification Module for WHMCS
 ## [View the full content on the website](https://wachat.net/whmcs-whatsapp-notification-module)
-The WhatsApp Notification offers an advanced notification system that automates sending customized notifications to clients for various events. This powerful tool can transform your client communication strategy.
+WhatsApp Notifications Module for WHMCS is very useful, when you want to send notifications to your clients after placing an order. admin and client both can get Whatsapp notification after an order is placed. Whatsapp notifications options can be customized in the admin panel very easily.
+
 
 ## Key Features of the WhatsApp Notification
 ### Client Login Notifications
